@@ -1,0 +1,52 @@
+POLÍTICA DE PRIVACIDAD
+Fecha de entrada en vigor: 17 de julio de 2025
+La presente Política de Privacidad describe cómo Despega Py (en adelante, «la Empresa», «nosotros») recopila, utiliza y protege los datos personales de los usuarios que interactúan con nuestro chatbot a través de la API de WhatsApp Cloud y del sitio web https://despegapy.com/.
+________________________________________
+1. Identidad del responsable
+•	Nombre legal: Despega Py
+
+•	Domicilio: Operamos exclusivamente de forma remota desde Paraguay y no contamos con oficinas abiertas al público.
+
+•	Correo de contacto: santi@despegapy.com
+
+•	Teléfono: +595 986 242 987
+En caso de requerirse correspondencia física, le rogamos se ponga en contacto previamente mediante los datos indicados para coordinar la entrega.
+________________________________________
+2. Datos personales que recopilamos
+Tipo de dato	Descripción	Origina de la obtención
+Número de teléfono	Número de WhatsApp del usuario.	Mensaje iniciado por el propio usuario.
+Contenido de mensajes	Texto, enlaces a redes sociales y ubicaciones que el usuario envía.	Conversación en WhatsApp.
+Metadatos mínimos	Marca temporal del mensaje (timestamp) necesaria para temporizadores internos del bot.	Generados automáticamente por la plataforma.
+No solicitamos ni tratamos otros datos personales (por ejemplo, nombre, correo electrónico, imágenes o direcciones IP del dispositivo).
+________________________________________
+3. Finalidad del tratamiento
+Los datos se tratan exclusivamente para:
+1.	Toma y gestión de pedidos solicitados por el usuario.
+2.	Atención al cliente y resolución de consultas relacionadas con nuestros servicios.
+No enviamos comunicaciones de marketing ni campañas promocionales. Cualquier cambio de finalidad será comunicado previamente al usuario y, cuando corresponda, se recabará un nuevo consentimiento.
+________________________________________
+4. Base legal y obtención del consentimiento
+El tratamiento se ampara en el consentimiento expreso que otorga el usuario cuando inicia conversación voluntariamente con nuestro número de WhatsApp y proporciona los datos necesarios para recibir el servicio solicitado. Al enviar el primer mensaje, el usuario reconoce y acepta esta Política de Privacidad.
+________________________________________
+5. Destinatarios y transferencias de datos
+•	Meta Platforms, Inc. (WhatsApp Cloud API) actúa como proveedor de servicio para el enrutamiento de mensajes.
+
+•	Proveedor de base de datos en la nube (ubicado fuera de Paraguay) donde almacenamos los registros durante el plazo de conservación.
+No cedemos ni vendemos datos a terceros con fines comerciales. Solo facilitaremos información a autoridades competentes cuando una normativa aplicable lo requiera.
+________________________________________
+6. Seguridad de la información
+Aplicamos medidas técnicas y organizativas razonables —incluida la comunicación cifrada con la API, control de accesos y buenas prácticas de desarrollo seguro— para proteger los datos contra pérdida, uso indebido, acceso no autorizado o divulgación.
+________________________________________
+7. Plazo de conservación
+Conservamos el historial de mensajes y metadatos por un (1) mes a partir de su recepción, tras lo cual se elimina o anonimiza de forma segura, salvo que una obligación legal exija retenerlos por más tiempo.
+________________________________________
+8. Derechos de los usuarios
+El usuario puede ejercer, sin coste alguno, los derechos de acceso, rectificación, supresión, oposición o portabilidad enviando un correo a santi@despegapy.com. Atenderemos la solicitud en un plazo máximo de siete (7) días contados desde su recepción.
+________________________________________
+9. Contacto
+Para cualquier duda o consulta sobre esta Política de Privacidad o el tratamiento de sus datos, puede escribir a santi@despegapy.com o llamar al +595 986 242 987.
+________________________________________
+10. Modificaciones de la política
+Nos reservamos el derecho de actualizar la presente Política para reflejar cambios legales o técnicos. Publicaremos la versión revisada en el mismo URL y, cuando el cambio sea significativo, notificaremos a los usuarios por el canal de contacto habitual.
+________________________________________
+Última actualización: 17 de julio de 2025
